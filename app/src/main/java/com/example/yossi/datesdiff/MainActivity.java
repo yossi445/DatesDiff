@@ -16,7 +16,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     TextView tvStart, tvStop, tvTotal;
 
-    //test
+    String s = "Hello";
+
 
 
 
